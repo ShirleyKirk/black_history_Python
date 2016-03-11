@@ -1,5 +1,3 @@
-# black_history_Python
+# Python学习的黑历史
 
-practice code
-
-during reading Programming Python 
+学Programming Python这本书的时候敲的代码。 
