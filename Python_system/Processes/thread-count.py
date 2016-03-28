@@ -10,7 +10,7 @@ def counter(myID,count):
 mutex=thread.allocate_lock()
 
 for x in range(5):
-	thread.start_new_thread(counter,(1,5))
+	thread.start_new_thread(counter,(i,5))
 
 time.sleep(6)
 print('Main thread exiting.\n')
